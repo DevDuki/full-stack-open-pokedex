@@ -23,14 +23,8 @@ module.exports = {
       "error",
         2
       ],
-    "linebreak-style": [
-      "error",
-      "unix"
-    ],
-    "quotes": [
-      "error",
-      "single"
-    ],
+    "linebreak-style": 0,
+    "quotes": 0,
     "semi": [
       "error",
       "never"
